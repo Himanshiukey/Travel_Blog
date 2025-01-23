@@ -1,2 +1,2 @@
 # Travel_Blog
-HTML basr project
+HTML base project
