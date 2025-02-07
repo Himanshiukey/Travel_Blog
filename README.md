@@ -1,2 +1,2 @@
 # Travel_Blog
-HTML CSS JS base project
+HTML CSS base project
